@@ -26,11 +26,12 @@ The menu will allow the user to modify, clear, build, and add polynomials repeat
 
 Polynomial Program – UML Class Relationship Diagram
 
-[ PLACE IMAGE HERE ]
+![PolynomialUMLDiagram](https://user-images.githubusercontent.com/70171720/93523467-efa62b80-f8e7-11ea-8ddd-bfae95be0fdd.PNG)
+
 
 Polynomial Program – UML Driver Sequence Diagram
 
-[ PLACE IMAGE HERE ]
+![PolynomialDriverSequence](https://user-images.githubusercontent.com/70171720/93523317-bb326f80-f8e7-11ea-9be4-eab4384269ee.PNG)
 
 
 ----------
