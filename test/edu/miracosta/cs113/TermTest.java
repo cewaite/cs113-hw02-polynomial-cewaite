@@ -175,11 +175,10 @@ public class TermTest {
         }
     }
 
-
     @Test
-    public void testClone() {
+    public void testClone() throws CloneNotSupportedException {
         Term original = new Term(10, -5);
-        Term copy = (Term)original.clone();
+        Term copy = (Term) original.clone();
 
         assertEquals("Coefficients in 'copy' does not match 'original'",
                 original.getCoefficient(), copy.getCoefficient());
